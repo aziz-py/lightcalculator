@@ -1,7 +1,4 @@
-Partager
 
-
-Vous avez dit :
 document.getElementById('lighting-form').addEventListener('submit', function (e) {
     e.preventDefault();
 
